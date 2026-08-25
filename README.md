@@ -6,4 +6,5 @@ In this benchmarking study, we tested 15 RNA velocity methods in 17 published da
 
 
 **Cite**
+
 Ya Luo, Jun Ren, Qian Yang, Ying Zhou, Zhiyu You, Qingqing Qin, Qiyuan Li. *Benchmarking RNA velocity methods across 17 independent studies*. *Cell Reports Methods* 6, 101367 (2026). [DOI: 10.1016/j.crmeth.2026.101367](https://doi.org/10.1016/j.crmeth.2026.101367)
